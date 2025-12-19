@@ -14,6 +14,6 @@ Over time, this repository may include:
 
 Nothing here is presented as finished or authoritative. This is a place to think in public, lightly, and revise as understanding improves.
 
-If you’re reading this as a peer, feel free to skim, question, or ignore anything that doesn’t resonate. If you’re just browsing, the primer is the best place to start.
+If you’re reading this as a peer, feel free to skim, question, or ignore anything that doesn’t resonate. If you’re just browsing, the primer is the best place to start. If still curious The_Toolbook descibes the tools.
 
 — mike
