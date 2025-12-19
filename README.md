@@ -2,7 +2,7 @@
 
 This repository is a workspace for exploring how people think with AI.
 
-It grew out of personal use rather than theory: long conversations, experiments, and moments where AI felt less like a tool and more like a thinking companion. The focus here isn’t on prompting技巧, productivity hacks, or model mechanics. It’s on orientation — how thinking changes when the system you’re working with can respond, elaborate, and keep going.
+It grew out of personal use rather than theory: long conversations, experiments, and moments where AI felt less like a tool and more like a thinking companion. The focus here isn’t on prompting, productivity hacks, or model mechanics. It’s on orientation — how thinking changes when the system you’re working with can respond, elaborate, and keep going.
 
 The main artifact at the moment is a short **primer**, which lives in this repo as a working document. It captures the framing and posture behind the work, along with a bridge into a small set of practical tools that are still being written.
 
